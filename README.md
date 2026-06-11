@@ -1,5 +1,4 @@
 # Password-Security-Authentication-Fundamentals
-# Password Security & Authentication Fundamentals
 
 ## Overview
 
